@@ -1,3 +1,3 @@
-const Rectx = require('./dist/src/index');
+const Rectx = require('./src/index');
 
 module.exports = Rectx;
